@@ -42,7 +42,6 @@ Each row represents one day of performance.
 - Matplotlib
 - Seaborn
 - SciPy (Hypothesis Testing)
-- Scikit-learn (Regression)
 - Jupyter Notebook
 
 ---
@@ -69,9 +68,6 @@ Each row represents one day of performance.
 ### 5. A/B Testing (Hypothesis Testing)
 - Independent two-sample t-test (Welch’s test)
 - Compared mean conversions
-
-### 6. Regression Analysis (Optional)
-- Predicted conversions from clicks
 
 ---
 
